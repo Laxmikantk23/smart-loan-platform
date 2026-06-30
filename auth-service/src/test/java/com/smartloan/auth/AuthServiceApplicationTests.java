@@ -1,4 +1,4 @@
-package com.project.loan.auth_service;
+package com.smartloan.auth;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

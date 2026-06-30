@@ -1,4 +1,4 @@
-package com.project.loan.auth_service;
+package com.smartloan.auth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
